@@ -1,0 +1,3 @@
+/home/wagner/CLionProjects/2022_1/contar_linhas_palavras_caracteres/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wagner/CLionProjects/2022_1/contar_linhas_palavras_caracteres/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wagner/CLionProjects/2022_1/contar_linhas_palavras_caracteres/cmake-build-debug/CMakeFiles/contar_linhas_palavras_caracteres.dir
